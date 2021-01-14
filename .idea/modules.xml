@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NaForest.iml" filepath="$PROJECT_DIR$/.idea/modules/NaForest.iml" group="NaForest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudy.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidStudy.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidStudy.app.iml" />
     </modules>
   </component>
 </project>
